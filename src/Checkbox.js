@@ -1,4 +1,3 @@
-import {useState} from "react";
 
 export default function Checkbox({checked = false, onClick}) {
   return (
